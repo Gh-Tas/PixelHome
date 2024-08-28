@@ -21,3 +21,28 @@ Público-Alvo:
 
 Wireframe:
   https://www.figma.com/proto/gFCQUuftk32Wk4z0dkBexx/PixelHome?node-id=0-1&t=iV4Dz8R5o9pi0ayO-1
+
+Planos de Sprints:
+  Sprint 1: Fundação da Plataforma
+
+Telas: Login, Cadastro, Perfil
+Objetivo: Construir a base da plataforma, permitindo que os usuários se registrem e gerenciem seus dados.
+Justificativa: Essas telas são essenciais para a interação do usuário com a plataforma e para a criação de um perfil personalizado.
+
+Responsaveis: Isaque (Perfil), Ambrósio (Cadastro) e Guilherme (Login)
+
+  Sprint 2: Catálogo e Carrinho
+
+Telas: Início, Produto, Carrinho
+Objetivo: Permitir que os usuários naveguem pelos produtos e adicionem itens ao carrinho.
+Justificativa: Essas telas são o coração do e-commerce, permitindo a exposição dos produtos e a realização de compras.
+
+Responsaveis: Luan (Início & Produto) e Guilherme Melo (Carrinho)
+
+  Sp rint 3: Finalizando a Compra
+
+Telas: Pagamento, Pagamento Pix, Pagamento Boleto, Pagamento Cartão
+Objetivo: Implementar os métodos de pagamento e finalizar a compra.
+Justificativa: Essas telas são cruciais para a conclusão da jornada do usuário e a geração de receita.
+
+Responsaveis: Ambrósio(Pagamento), Isaque (Pagamento Boleto & Pagamento Cartão) & Guilherme (Pagamento Pix)
